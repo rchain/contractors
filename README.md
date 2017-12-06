@@ -26,7 +26,7 @@ We would like all invoices received by the 2nd day of the month for the prior mo
 planning on sending all payments out by the 7th day of the month.
 Please feel free to contact me on Discord (@lisarice27) with any questions.
 
-Thanks!
+Thanks!  
 Lisa
 
 Forms are linked here and can also be dowloaded from within this repo:  
